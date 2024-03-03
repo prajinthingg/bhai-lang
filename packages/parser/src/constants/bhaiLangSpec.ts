@@ -1,27 +1,27 @@
 export const TokenTypes = {
   NULL_TYPE: null,
 
-  HI_BHAI_TYPE: "hi bhai",
+  HI_BHAI_TYPE: "main",
 
-  BYE_BHAI_TYPE: "bye bhai",
+  BYE_BHAI_TYPE: "end",
 
-  BOL_BHAI_TYPE: "bol bhai",
+  BOL_BHAI_TYPE: "print",
 
-  BHAI_YE_HAI_TYPE: "bhai ye hai",
+  BHAI_YE_HAI_TYPE: "manau",
 
-  AGAR_BHAI: "agar bhai",
+  AGAR_BHAI: "yadi",
 
-  WARNA_BHAI: "warna bhai",
+  WARNA_BHAI: "anyatha",
 
-  NAHI_TO_BHAI: "nahi to bhai",
+  NAHI_TO_BHAI: "anyatha yadi",
 
-  JAB_TAK_BHAI: "jab tak bhai",
+  JAB_TAK_BHAI: "jaba samma",
 
-  BAS_KAR_BHAI: "bas kar bhai",
+  BAS_KAR_BHAI: "antya gara",
 
-  AGLA_DEKH_BHAI: "agla dekh bhai",
+  AGLA_DEKH_BHAI: "jari rakha",
 
-  NALLA_TYPE: "NALLA",
+  NALLA_TYPE: "khali",
 
   SEMI_COLON_TYPE: ";",
 
